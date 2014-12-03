@@ -1,0 +1,3 @@
+Mi curriculum Vitae:
+
+Me dedico a la programación Web desde 2008, soy experto en tecnologías Web tales como HTML, XHTML, CSS, JavaScript, Ajax, PHP y MySQL. Mi campo de acción comprende aplicaciones desde sitios Web dinámicos auto-administrables como e-commerce, sitios personales con páginas institucionales dinámicas
