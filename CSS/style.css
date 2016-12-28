@@ -14,11 +14,7 @@
 Body{
     background-color: white;
 }
-
-
 /* Utilities */
-
-
 .u-title{
     border-bottom: 2px dashed #00CCFF;
     color: #00CCFF;
@@ -27,12 +23,10 @@ Body{
     padding-bottom: .5em;
     text-align: center;
 }
-
 .u-containerDefault{
     /*width: 800px;*/
     margin: 0 auto;
 }
-
 /*Main menu: Top Bar */
 .MainMenu{
     background: #1E1E1E;
@@ -43,31 +37,24 @@ Body{
     right: 0;
     top: 0;
 }
-
-
 .MainMenu-list{
     margin:0;
     padding: 0;
 }
-
 .MainMenu-item{
     display: inline-block;
 }
-
 .MainMenu-link{
     color: #00DBFF;
     text-decoration: none;
     line-height: 3.75em;
     margin-right: 1.5em;
 }
-
-
 #me:before{
     font-family: 'icomoon';
     content: "\e600";
     color: #00DBFF;
 }
-
 #perfil:before{
     font-family: 'icomoon';
     content: "\e606";
@@ -87,30 +74,24 @@ Body{
 /*Header*/
 .Header{
     margin-top: 3.75em;
-    background-image: url('../Images/Portada.jpg');
+    /*background-image: url('../Images/Portada.jpg');*/
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     text-align: center;
     padding:1.2em 0;
 }
-
 .Header-imageContainer{
     margin: 0;
 }
-
 .Header-image{
     border: 5px solid white;
     border-radius: 50%;
     width: 200px;
 }
-
-.Header-name,
-.Header-link{
+.Header-name, .Header-link{
     color: white;
-   
 }
-
 .Header-link{
     font-size: 2.2em;
     font-weight: bold;
@@ -119,66 +100,63 @@ Body{
     border-radius: 1em;
     padding: .1em 1em;
     border: 3px solid white;
-   
 }
-
 .Header-name{
     font-size: 1.5em;
     font-weight: 300;
     color: black;
     background-color: white;
-    border-radius: .4em;   
+    border-radius: .4em;
     padding: .2em 1em;
     margin: 0 35%;
-
 }
+
+/*Technical*/
+.technical {
+	height: 220px;
+}
+
+.technical h4 {
+	color: #000;
+	font-size: 12px;
+}
+
+.right_right {
+	width: 330px;
+	float: right;
+}
+
+.right_left {
+	width: 250px;
+	float: left;
+}
+
+.right_left span {
+	font-weight: bold;
+	color: #333;
+}
+
 
 
 /*Projects*/
-
-.Profile{
-    background-color: #FFFFFF;
-    text-align: center;
-    padding: 2em 5em;
-    height: 400px;
-}
-
-.Profile-link{
-    background-color: #3781FB;
-    border-radius: 1em;
-    color:white;
-    text-decoration: none;
-    padding: 20px 10px 5px 10px;
-    margin: 4em 1em;
-
-   
-    
-}
-
 #twitter:before{
     content: "\e609";
     font-family: 'icomoon';
     font-size: 1.5em;
 
-} 
-
+}
 #github:before{
     font-family: 'icomoon';
     content: "\e60a";
     font-size: 1.5em;
-} 
-
+}
 #linkedin:before{
     font-family: 'icomoon';
     content: "\e60b";
     font-size: 1.5em;
-} 
-
-
+}
 .links-accounts{
-margin-top: 2em;
-
-
+  margin-top: 2em;
 }
 .Profile-title{
 
@@ -186,20 +164,16 @@ margin-top: 2em;
     font-size: 1.2 em;
 
 }
-
 .Profile-description{
     text-align: left;
 }
 
 /*Work*/
 
-
-
 /*Footer*/
-
 .Footer {
 
- 
+
     background-image: url('../Images/Footer.jpg');
     background-repeat: no-repeat;
     background-position: center;
