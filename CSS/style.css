@@ -9,11 +9,8 @@
     font-style: normal;
 }
 
-/* Style cheet for Robb  page 0.1*/
 
-Body{
-    background-color: white;
-}
+
 /* Utilities */
 .u-title{
     border-bottom: 2px dashed #00CCFF;
@@ -71,113 +68,10 @@ Body{
     color: #00DBFF;
 }
 
-/*Header*/
-.Header{
-    margin-top: 3.75em;
-    /*background-image: url('../Images/Portada.jpg');*/
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    text-align: center;
-    padding:1.2em 0;
-}
-.Header-imageContainer{
-    margin: 0;
-}
-.Header-image{
-    border: 5px solid white;
-    border-radius: 50%;
-    width: 200px;
-}
-.Header-name, .Header-link{
-    color: white;
-}
-.Header-link{
-    font-size: 2.2em;
-    font-weight: bold;
-    text-decoration: none;
-    background-color: black;
-    border-radius: 1em;
-    padding: .1em 1em;
-    border: 3px solid white;
-}
-.Header-name{
-    font-size: 1.5em;
-    font-weight: 300;
-    color: black;
-    background-color: white;
-    border-radius: .4em;
-    padding: .2em 1em;
-    margin: 0 35%;
-}
-
-/*Technical*/
-.technical {
-	height: 220px;
-}
-
-.technical h4 {
-	color: #000;
-	font-size: 12px;
-}
-
-.right_right {
-	width: 330px;
-	float: right;
-}
-
-.right_left {
-	width: 250px;
-	float: left;
-}
-
-.right_left span {
-	font-weight: bold;
-	color: #333;
-}
-
-
-
-/*Projects*/
-#twitter:before{
-    content: "\e609";
-    font-family: 'icomoon';
-    font-size: 1.5em;
-
-}
-#github:before{
-    font-family: 'icomoon';
-    content: "\e60a";
-    font-size: 1.5em;
-}
-#linkedin:before{
-    font-family: 'icomoon';
-    content: "\e60b";
-    font-size: 1.5em;
-}
-.links-accounts{
-  margin-top: 2em;
-}
-.Profile-title{
-
-    color: #0488AE;
-    font-size: 1.2 em;
-
-}
-.Profile-description{
-    text-align: left;
-}
-
-/*Work*/
-
-/*Footer*/
-.Footer {
-
-
-    background-image: url('../Images/Footer.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    padding: 2em 0;
-    text-align: center;
+.top {
+  height: 200px;
+  background-image: url("../img/top.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
