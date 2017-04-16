@@ -132,3 +132,11 @@ progress::-moz-progress-bar {
     height: 20px;
     border-radius: 20px;
 }
+
+#boton{
+  text-align: center;
+  color: white;
+  padding: 20px;
+  border-radius: 4px;
+  background-color: #272822;
+}
