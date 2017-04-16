@@ -75,3 +75,60 @@
   background-position: center;
   background-size: cover;
 }
+
+.wrap{
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.perfil h3{
+  font-size: 40px;
+  text-align: justify;
+}
+.perfil img{
+  width: 150px;
+  height: 150px;
+  margin: 20px;
+  margin-bottom: 50px;
+  float: right;
+
+}
+.habilidades{
+
+  color: #FE9720;
+  text-align: center;
+}
+.habilidades td{
+  padding-right: 15px;
+}
+
+#NameHability{
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+progress {
+    padding-top: 10px;
+    border: 0;
+    height: 40px;
+    border-radius: 20px;
+    width: 400px;
+}
+progress::-webkit-progress-bar {
+    border: 0;
+    height: 20px;
+    border-radius: 20px;
+    background-color: #48483E;
+}
+progress::-webkit-progress-value {
+    border: 0;
+    height: 20px;
+    border-radius: 20px;
+    background-color: #6CC72C;
+}
+progress::-moz-progress-bar {
+    border: 0;
+    height: 20px;
+    border-radius: 20px;
+}
