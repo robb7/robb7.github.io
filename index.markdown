@@ -1,6 +1,39 @@
 ---
 layout: default
 ---
+# Roberto Valdez Barba 
+## Datos generales
+<dl>
+<dt>Nombre</dt>
+<dd>Roberto Valdez Barba</dd>
+<dt>Año de Nacimiento</dt>
+<dd>1991</dd>
+<dt>Nacionalidad</dt>
+<dd>Mexicana</dd>
+</dl>
+
+## Habilidades 
+
+## Experiencia laboral
+
+#### Escuela Libre de Derecho 
+_(Abril 2017 - Presente)_
+
+**Descripción:**
+
+#### Coordinación de Desarrollo tecnologico - IPN 
+
+## Educación 
+
+<div class="dotcontainer">
+<div class="dot_full"></div>
+<span class="dot_full"></span>
+<span class="dot_full"></span>
+<span class="dot_full"></span>
+<div class="dot_empyt"></div>
+</div>
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
