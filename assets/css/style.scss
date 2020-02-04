@@ -46,3 +46,21 @@
 .logo{
   border-radius: 50%;
 }
+
+.habilidadContainer{
+  margin-bottom: 20px;
+
+}
+
+.habilidadDiv {
+    display:inline-block;
+    color: white;
+    border:1px solid #006699;
+    background: #006699;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+    vertical-align:middle;
+    max-width: 100px;
+    padding: 8px;
+    text-align: center;
+    border-radius: 10px;
+}

@@ -11,15 +11,18 @@ layout: default
 <dd>Mexicana</dd>
 </dl>
 
-## <ins>Habilidades 
+## <ins>Habilidades</ins>
+<div class="habilidadContainer">
+  <div class="habilidadDiv"> PostgresSQL </div>
+  <div class="habilidadDiv"> Java </div>
+  <div class="habilidadDiv"> HTML/CSS </div>
+  <div class="habilidadDiv"> GIT </div>
+  <div class="habilidadDiv"> Javascript </div>
+</div>
+
 
 ## <ins>Experiencia laboral
-
-#### Escuela Libre de Derecho 
-_(Abril 2017 - Presente)_
-
-**Descripción:**
-
+  
 #### Desarrollador frontend/backend 
 *Coordinación de desarrollo tecnológico (CDT)*
 CDMX, México 
@@ -38,6 +41,7 @@ CEMCAS, Edo. Mex, México
 * Coordinador de capacitación para herramienta de aprendizaje en linea.
 
 ## <ins>Educación</ins>
+
 
 ## <ins>Lenguajes</ins> 
 
