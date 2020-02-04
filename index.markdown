@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-# Roberto Valdez Barba 
-## Datos generales
+##  <ins>Datos generales </ins>
 <dl>
 <dt>Nombre</dt>
 <dd>Roberto Valdez Barba</dd>
@@ -12,20 +11,38 @@ layout: default
 <dd>Mexicana</dd>
 </dl>
 
-## Habilidades 
+## <ins>Habilidades 
 
-## Experiencia laboral
+## <ins>Experiencia laboral
 
 #### Escuela Libre de Derecho 
 _(Abril 2017 - Presente)_
 
 **Descripción:**
 
-#### Coordinación de Desarrollo tecnologico - IPN 
+#### Desarrollador frontend/backend 
+*Coordinación de desarrollo tecnológico (CDT)*
+CDMX, México 
 
-## Educación 
+División del IPN encargada de desarrollar proyectos para el interior de la institución.
+* Colaborador en el proyecto CALMECAC. 
+* Colaborador en el proyectos para la ELD(Escuela Libre de Derecho). 
+* Desarrollo de caso de uso.
+
+#### Desarrollador web
+*Proyecto NAICM - Grupo aeroportuario de la ciudad de México*
+CEMCAS, Edo. Mex, México
+
+* Desarrollo de una plataforma y material para la concientización ecológica del personal. 
+* Encargado de la plataforma para la gestión documentos internos. 
+* Coordinador de capacitación para herramienta de aprendizaje en linea.
+
+## <ins>Educación</ins>
+
+## <ins>Lenguajes</ins> 
 
 <div class="dotcontainer">
+  Ingles 80%
 <div class="dot_full"></div>
 <span class="dot_full"></span>
 <span class="dot_full"></span>
@@ -33,7 +50,7 @@ _(Abril 2017 - Presente)_
 <div class="dot_empyt"></div>
 </div>
 
-
+------
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
