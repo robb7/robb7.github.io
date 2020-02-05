@@ -6,6 +6,7 @@
 .dotcontainer
 {
     display:inline;
+    margin-left: 40px;
 }
 
 
@@ -52,16 +53,25 @@
 
 }
 
-.habilidadDiv {
+.habilidad{
     display:inline-block;
-    color: white;
-    border:1px solid #006699;
-    background: #006699;
     box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
     vertical-align:middle;
     max-width: 100px;
     padding: 8px;
-    margin-top: 4px;
+    margin-top: 6px;
     text-align: center;
     border-radius: 10px;
+}
+
+.tipo1{
+    color: white;
+    border:1px solid #006699;
+    background: #006699;
+}
+
+.tipo2{
+    color: white;
+    border:1px solid #fcc028;
+    background: #fcc028;
 }

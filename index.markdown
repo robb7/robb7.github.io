@@ -13,12 +13,16 @@ layout: default
 
 ## <ins>Habilidades</ins>
 <div class="habilidadContainer">
-  <div class="habilidadDiv"> PostgresSQL </div>
-  <div class="habilidadDiv"> Java </div>
-  <div class="habilidadDiv"> HTML/CSS </div>
-  <div class="habilidadDiv"> GIT </div>
-  <div class="habilidadDiv"> Javascript </div>
-  <div class="habilidadDiv"> bash </div>
+  <div class="habilidad tipo1"> PostgresSQL </div>
+  <div class="habilidad tipo1"> Java </div>
+  <div class="habilidad tipo1"> Struts </div>
+  <div class="habilidad tipo1"> Hibernate </div>
+  <div class="habilidad tipo1"> HTML/CSS </div>
+  <div class="habilidad tipo1"> GIT </div>
+  <div class="habilidad tipo1"> SVN </div>
+  <div class="habilidad tipo1"> Javascript </div>
+  <div class="habilidad tipo1"> shell </div>
+  <div class="habilidad tipo2"> SCRUM </div>
 </div>
 
 
@@ -42,137 +46,48 @@ CEMCAS, Edo. Mex, México
 * Coordinador de capacitación para herramienta de aprendizaje en linea.
 
 ## <ins>Educación</ins>
+*Escuela Superior de Computos(ESCOM) - Ingeniería en sistemas computacionales Instituto Politécnico Nacional* 
+ México,CDMX 
+
+* Trabajo Terminal(Tesis ): Elaboración de un sistema de calendarización de presentaciones haciendo uso de algoritmos geneticos.
+
 
 
 ## <ins>Lenguajes</ins> 
 
+<p>Ingles 80% </p>
 <div class="dotcontainer">
-  Ingles 80%
-<div class="dot_full"></div>
-<span class="dot_full"></span>
-<span class="dot_full"></span>
-<span class="dot_full"></span>
-<div class="dot_empyt"></div>
+  <span class="dot_full"></span>
+  <span class="dot_full"></span>
+  <span class="dot_full"></span>
+  <span class="dot_full"></span>
+  <span class="dot_empyt"></span>
 </div>
+
+<p>Italiano 20% </p>
+<div class="dotcontainer">
+  <span class="dot_full"></span>
+  <span class="dot_empyt"></span>
+  <span class="dot_empyt"></span>
+  <span class="dot_empyt"></span>
+  <span class="dot_empyt"></span>
+</div>
+
+## <ins>Logros</ins>
+
+*Comunidad Politécnica de Robotica (04/2014 – 06/2017)*
+* Como parte de la comunidad politécnica mi trabajo era la difusión entre el politécnico y el publico en general por la robotica así como coordinar los eventos de la misma (Trabajo en area de Streaming)
+
+*Colaborador Talent Network (06/2017 – 07/2017)*
+* Coordinador general del area de Streaming y soporte audiovisual
+
+## <ins>Portafolio</ins>
 
 ------
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<div class="socialicondiv">
+  <a href="/assets/documents/Roberto Valdez Barba  CV.pdf">  
+    <img src="/assets/img/pdf.png" alt="Gmail" class="socialicon"/>
+    Version descargable
+  </a>
+</div>
