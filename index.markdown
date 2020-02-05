@@ -18,11 +18,12 @@ layout: default
   <div class="habilidadDiv"> HTML/CSS </div>
   <div class="habilidadDiv"> GIT </div>
   <div class="habilidadDiv"> Javascript </div>
+  <div class="habilidadDiv"> bash </div>
 </div>
 
 
 ## <ins>Experiencia laboral
-  
+
 #### Desarrollador frontend/backend 
 *Coordinación de desarrollo tecnológico (CDT)*
 CDMX, México 
