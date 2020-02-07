@@ -28,32 +28,39 @@ layout: default
 
 ## <ins>Experiencia laboral
 
-#### Desarrollador frontend/backend 
+#### Desarrollador frontend/backend
+*Coordinación de TI - Escuela Libre de Derecho*
+CDMX, México
+
+Gestion de equipos
+* Manejo de equipos de desarrollo
+* Desarrollo de sistema para titulacion electronica  
+
 *Coordinación de desarrollo tecnológico (CDT)*
-CDMX, México 
+CDMX, México
 
 División del IPN encargada de desarrollar proyectos para el interior de la institución.
-* Colaborador en el proyecto CALMECAC. 
-* Colaborador en el proyectos para la ELD(Escuela Libre de Derecho). 
+* Colaborador en el proyecto CALMECAC.
+* Colaborador en el proyectos para la ELD(Escuela Libre de Derecho).
 * Desarrollo de caso de uso.
 
 #### Desarrollador web
 *Proyecto NAICM - Grupo aeroportuario de la ciudad de México*
 CEMCAS, Edo. Mex, México
 
-* Desarrollo de una plataforma y material para la concientización ecológica del personal. 
-* Encargado de la plataforma para la gestión documentos internos. 
+* Desarrollo de una plataforma y material para la concientización ecológica del personal.
+* Encargado de la plataforma para la gestión documentos internos.
 * Coordinador de capacitación para herramienta de aprendizaje en linea.
 
 ## <ins>Educación</ins>
-*Escuela Superior de Computos(ESCOM) - Ingeniería en sistemas computacionales Instituto Politécnico Nacional* 
- México,CDMX 
+*Escuela Superior de Computos(ESCOM) - Ingeniería en sistemas computacionales Instituto Politécnico Nacional*
+ México,CDMX
 
 * Trabajo Terminal(Tesis ): Elaboración de un sistema de calendarización de presentaciones haciendo uso de algoritmos geneticos.
 
 
 
-## <ins>Lenguajes</ins> 
+## <ins>Lenguajes</ins>
 
 <p>Ingles 80% </p>
 <div class="dotcontainer">
@@ -87,7 +94,7 @@ CEMCAS, Edo. Mex, México
 
 <div class="socialicondiv">
   <a href="/assets/documents/Roberto Valdez Barba  CV.pdf">  
-    <img src="/assets/img/pdf.png" alt="Gmail" class="socialicon"/>
+    <img src="/assets/img/pdf.png" alt="PDF" class="socialicon"/>
     Version descargable
   </a>
 </div>

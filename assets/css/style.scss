@@ -6,13 +6,13 @@
 .dotcontainer
 {
     display:inline;
-    margin-left: 40px;
+    margin-left: 35%;
 }
 
-
+//Circulos para habilidades
 .dot_full{
-  height: 15px;
-  width: 15px;
+  height: 20px;
+  width: 20px;
   background-color: #006699;
   border-radius: 50%;
   display: inline-block;
@@ -20,22 +20,22 @@
 
 .dot_empyt{
     background-color:#fff;
-    border:1px solid #006699;    
-    height:14px;
+    border:1px solid #006699;
+    height:19px;
     border-radius:50%;
     -moz-border-radius:50%;
     -webkit-border-radius:50%;
-    width:14px;
+    width:19px;
     display: inline-block;
 }
 
 .socialiconcontainer{
-  margin-left: 30%;
-
+  text-align: center;
 }
 
 .socialicondiv{
   display: inline-block;
+  text-align: center;
 }
 .socialicon{
   width: 25px;
@@ -48,6 +48,8 @@
   border-radius: 50%;
 }
 
+
+//CSS para habilidades
 .habilidadContainer{
   margin-bottom: 20px;
 
@@ -59,6 +61,7 @@
     vertical-align:middle;
     max-width: 100px;
     padding: 8px;
+    margin-left: 5px;
     margin-top: 6px;
     text-align: center;
     border-radius: 10px;
