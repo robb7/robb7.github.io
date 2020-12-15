@@ -14,11 +14,12 @@ layout: default
 ## <ins>Habilidades</ins>
 <div class="habilidadContainer">
   <div class="habilidad tipo1"> PostgresSQL </div>
+  <div class="habilidad tipo1"> MongoDB </div>
   <div class="habilidad tipo1"> Java </div>
   <div class="habilidad tipo1"> Struts </div>
   <div class="habilidad tipo1"> Hibernate </div>
   <div class="habilidad tipo1"> HTML/CSS </div>
-  <div class="habilidad tipo1"> GIT </div>
+  <div class="habilidad tipo1"> GIT/ GitHub </div>
   <div class="habilidad tipo1"> SVN </div>
   <div class="habilidad tipo1"> Javascript </div>
   <div class="habilidad tipo1"> shell </div>
@@ -28,16 +29,27 @@ layout: default
 
 ## <ins>Experiencia laboral
 
-#### Desarrollador frontend/backend
-*Coordinación de TI - Escuela Libre de Derecho*
-CDMX, México
+<!-- Escuela libre de derecho -->
+<dl>
+<dt>Escuela Libre de Derecho</dt>
+<dt>CDMX, México</dt>
+<dd>Desarrollador frontend/backend</dd>
+<dd>Coordinador de TI </dd>
+</dl>
+
+
 
 Gestion de equipos
 * Manejo de equipos de desarrollo
 * Desarrollo de sistema para titulacion electronica  
 
-*Coordinación de desarrollo tecnológico (CDT)*
-CDMX, México
+<!-- IPN Coordinacion de desarrollo tecnológico-->
+
+<dl>
+<dt>Coordinación de desarrollo tecnológico (CDT)</dt>
+<dt>CDMX, México</dt>
+<dd>Desarrollador frontend/backend</dd>
+</dl>
 
 División del IPN encargada de desarrollar proyectos para el interior de la institución.
 * Colaborador en el proyecto CALMECAC.
