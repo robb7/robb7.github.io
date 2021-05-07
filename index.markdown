@@ -120,10 +120,3 @@ México,CDMX
 </div>
 
 ------
-
-<div class="socialicondiv">
-<a href="/assets/documents/Roberto Valdez Barba CV.pdf">
-<img src="/assets/img/pdf.png" alt="PDF" class="socialicon"/>
-Versión descargable
-</a>
-</div>
