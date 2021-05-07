@@ -1,9 +1,11 @@
 ---
 layout: default
+title: English Version
+permalink: /english/
 ---
-## <ins>Datos generales </ins>
+## <ins> General </ins>
 <dl>
-<dt>Nombre</dt>
+<dt>Full Name</dt>
 <dd>Roberto Valdez Barba</dd>
 <dt>Año de Nacimiento</dt>
 <dd>1991</dd>
@@ -12,9 +14,6 @@ layout: default
 </dl>
 
 ## <ins>Habilidades</ins>
-
-<p><strong class="job_title">SoftSkills:</strong> Determinado, excelente comunicación y coordinación con equipos.</p>
-
 <div class="habilidadContainer">
 <div class="habilidad tipo1"> PostgresSQL </div>
 <div class="habilidad tipo1"> MongoDB </div>
@@ -118,7 +117,7 @@ México,CDMX
   <a href="https://github.com/robb7/JavascriptCalendar">
     <img class="portafolio_img" src="/assets/img/portafolio/calendar.png" alt="PDF"/>
   </a>
-</div>  
+</div>
     Proyecto para generar un calendario en javascript con solo fechas del evento.
 </div>
 

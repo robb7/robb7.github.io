@@ -13,9 +13,13 @@ html, html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
+  //General
   --link-color: rgb( 100, 210, 255);
   --main-background-color: hsl(0, 0%, 20%);
-  --main-text-color: hsl(0, 0%, 85%);
+  --main-text-color: white;
+  //Encabezados
+  --main-ins-color: white;
+  --main-dt-text_color: #fcc028;
 }
 
 
@@ -26,10 +30,9 @@ html[data-theme="dark"] {
       --link-color: rgb( 100, 210, 255);
     	--main-background-color: hsl(0, 0%, 20%);
     	--main-text-color: white;
-
       //Encabezados
-      --main-ins-color: #006699;
-      --main-dt-text_color: white;
+      --main-ins-color: white;
+      --main-dt-text_color: #fcc028;
     }
     /*Tema Claro */
     html[data-theme="light"] {
@@ -47,16 +50,24 @@ html[data-theme="dark"] {
 body {
 	//background-color: var(--main-background-color);
   background-color: #333333;
-opacity: 1;
-background-image:  linear-gradient(#303030 3.4000000000000004px, transparent 3.4000000000000004px), linear-gradient(to right, #303030 3.4000000000000004px, #333333 3.4000000000000004px);
-background-size: 68px 68px;
+  opacity: 1;
+  background-image:  linear-gradient(#303030 6.800000000000001px, transparent 6.800000000000001px), linear-gradient(90deg, #303030 6.800000000000001px, transparent 6.800000000000001px), linear-gradient(#303030 3.4000000000000004px, transparent 3.4000000000000004px), linear-gradient(90deg, #303030 3.4000000000000004px, #333333 3.4000000000000004px);
+  background-size: 170px 170px, 170px 170px, 34px 34px, 34px 34px;
+  background-position: -6.800000000000001px -6.800000000000001px, -6.800000000000001px -6.800000000000001px, -3.4000000000000004px -3.4000000000000004px, -3.4000000000000004px -3.4000000000000004px;
 	color: var(--main-text-color);
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	padding: 1em;
+  text-align: justify;
 }
 
 
 
+// sidebar
+
+.nameTitle{
+  color: #ea9c00;
+  text-align: justify;
+}
 
 .job_title{
     color: #ea9c00;
@@ -69,6 +80,7 @@ ins{
 //Listas
 dt{
     color: var(--main-dt-text_color);
+    text-align: justify;
 }
 
 .dotcontainer
@@ -81,7 +93,7 @@ dt{
 .dot_full{
   height: 20px;
   width: 20px;
-  background-color: #006699;
+  background-color: #ea9c00;
   border-radius: 50%;
   display: inline-block;
 }
@@ -89,7 +101,7 @@ dt{
 
 .dot_empyt{
     background-color:#fff;
-    border:1px solid #006699;
+    border:1px solid #303030;
     height:19px;
     border-radius:50%;
     -moz-border-radius:50%;
@@ -157,4 +169,11 @@ dt{
   width: 300px;
   margin-right: 10px;
   display: inline-block;
+}
+
+
+//Footer
+footer{
+  background-color: #303030;
+  padding: 10px;
 }
