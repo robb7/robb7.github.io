@@ -7,7 +7,7 @@
 /* Tema de color obscuro y ligero */
 
 
-html[data-theme="dark"] {
+html{
   //General
   --link-color: rgb( 100, 210, 255);
   --main-background-color: hsl(0, 0%, 20%);
@@ -17,29 +17,7 @@ html[data-theme="dark"] {
   --main-dt-text_color: #fcc028;
 }
 
-
-@media (prefers-color-scheme: light) {
-    /*Tema Obscuro */
-    html, html[data-theme="dark"] {
-      //General
-      --link-color: rgb( 100, 210, 255);
-    	--main-background-color: hsl(0, 0%, 20%);
-    	--main-text-color: white;
-      //Encabezados
-      --main-ins-color: white;
-      --main-dt-text_color: #fcc028;
-    }
-    /*Tema Claro */
-
-}
-
-
-
-/*-----------------------------------------------------------------------------*/
-//CSS General
-
 body {
-	//background-color: var(--main-background-color);
   background-color: #333333;
   opacity: 1;
   background-image:  linear-gradient(#303030 6.800000000000001px, transparent 6.800000000000001px), linear-gradient(90deg, #303030 6.800000000000001px, transparent 6.800000000000001px), linear-gradient(#303030 3.4000000000000004px, transparent 3.4000000000000004px), linear-gradient(90deg, #303030 3.4000000000000004px, #333333 3.4000000000000004px);
