@@ -6,11 +6,6 @@
 /*----------------------------------------------------------------------------*/
 /* Tema de color obscuro y ligero */
 
-html, html[data-theme="light"] {
-	--link-color: rgb(0, 112, 201);
-  --main-background-color: hsl(0, 0%, 90%);
-  --main-text-color: hsl(0, 0%, 20%);
-}
 
 html[data-theme="dark"] {
   //General
@@ -35,11 +30,7 @@ html[data-theme="dark"] {
       --main-dt-text_color: #fcc028;
     }
     /*Tema Claro */
-    html[data-theme="light"] {
-		  --link-color: rgb(0, 112, 201);
-    	--main-background-color: hsl(0, 0%, 90%);
-  	  --main-text-color: hsl(0, 0%, 20%);
-  }
+
 }
 
 
